@@ -1,0 +1,44 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: jossef
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jerusalem
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_lines: 4
+          plugin_stackoverflow_lines_snippet: 2
+          plugin_stackoverflow_sections: answers-top, questions-recent
+          plugin_stackoverflow_user: 3191896
+          plugin_tweets: yes
+          plugin_tweets_limit: 2
+          plugin_tweets_user: jossefharush
