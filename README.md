@@ -1,12 +1,16 @@
-Hi there! My name is Jossef
+Hi there! My name is Jossef Harush Kadouri. 
 
-I am passionate about Linux and Windows, and I have a strong interest in exploring the possibilities of Mac in the future. With my expertise in IoT and a knack for creating real-life automation solutions, I am able to control a variety of devices using my phone. Additionally, I am a designer and digital asset creator, with a focus on pixel-perfect UI.
+- Founder of the cybersecurity startups [zeronetworks.com](https://zeronetworks.com/) and [dusti.co](https://dusti.co/)
+- I (git) merged my wife's family name with mine, hence "Harush Kadouri"
+- Ranked in the top 1% on Stack Overflow
+- Passionate about hacking stuff, operating systems, and building computers
+- Graphic designer with OCD for pixel-perfect UI
+- Riding motorcycles (Ducati FTW!)
+- Growing hot peppers and organizing events in Israel
 
-In my free time, I enjoy growing hot peppers and organizing hot pepper events in Ramat Gan, the second best city in Israel. I am also an active member of the open-source community, and I am ranked in the top 1% on Stack Overflow.
+Feel free to contact me at jossef12@gmail.com
 
-In 2020, I co-founded Dustico, a software supply chain security company that was acquired by Checkmarx the following year. Since then, I have been working with my team to identify and prevent software supply chain attackers, ensuring the safety of the ecosystem.
-
-Feel free to check out my Github repositories to see some of the projects I have been working on.
+![Metrics](/github-metrics.svg)
 
 [![](https://user-images.githubusercontent.com/1287098/102343950-de7ec080-3fa3-11eb-9db7-57cd47d3e7f2.gif "Jossef Harush")](https://github.com/jossef)
 
