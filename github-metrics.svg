@@ -217,7 +217,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            32392 reputation points
+                            32402 reputation points
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -643,7 +643,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 228k out of 49.2m repositories</span>
+                                    <span class="gh">ranked 228k out of 57.3m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">52</div>
                                     </div>
@@ -739,7 +739,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 85.9k out of 49.2m repositories</span>
+                                    <span class="gh">ranked 91.7k out of 57.3m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">448</div>
                                     </div>
@@ -1031,7 +1031,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Sept 2023, 20:07:49 (timezone Asia/Jerusalem) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2023, 21:10:41 (timezone Asia/Jerusalem) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
