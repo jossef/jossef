@@ -1,6 +1,3 @@
-![Wide Collage English ](https://github.com/user-attachments/assets/2b92cc7b-2f17-4f77-8367-fb7f409db1d7)
-
-
 # Hi there, I’m Jossef Harush Kadouri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@jossef12)
